@@ -1,0 +1,6 @@
+# dsh-san-sheng-liu-bu (三省六部制流程优化插件) — one bundle row,
+# inserted into the profile composition when this package is installed
+# with `dsh plugin --profile desktop add link:<dir>`.
+- insert:
+    - id: san-sheng-liu-bu
+      name: 'dsh-san-sheng-liu-bu'
